@@ -1,2 +1,16 @@
-# sub-domain-finder-using-flutter-
-This Flutter application is a Subdomain Finder Tool that allows users to discover subdomains for a given domain name. It provides a clean UI and interacts with a backend (or API) to perform subdomain enumeration.  ✨ Features: 🔍 Input a domain to find associated subdomains  📋 Displays discovered subdomains in a scrollable list .
+# subomainfinder
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
