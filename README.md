@@ -1,39 +1,16 @@
-# 🌐 Subdomain Finder App (Flutter)
+# subomainfinder
 
-A simple and effective Flutter-based mobile application to find subdomains for a given domain name. Ideal for ethical hackers, cybersecurity professionals, or anyone interested in reconnaissance and domain analysis.
+A new Flutter project.
 
----
+## Getting Started
 
-## 🚀 Features
+This project is a starting point for a Flutter application.
 
-- 🔍 Input domain and fetch subdomains
-- 📋 Clean, scrollable list of results
-- 🌐 Sends HTTP requests to a subdomain enumeration backend/API
-- 📱 Mobile-ready with modern Flutter UI
-- 🔁 Easy refresh mechanism for multiple lookups
+A few resources to get you started if this is your first Flutter project:
 
----
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## 📸 Screenshots
-
-> Add screenshots here  
-> Example:
-> ![Home Screen](screenshots/home.png)
-
----
-
-## 🛠️ Getting Started
-
-### Prerequisites
-
-- Flutter SDK installed
-- A running API/backend service for subdomain enumeration (e.g., Flask or Node.js)
-- Android Studio or VS Code for development
-
-### Installation
-
-```bash
-git clone https://github.com/yourusername/subdomain-finder-app.git
-cd subdomain-finder-app
-flutter pub get
-flutter run
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
